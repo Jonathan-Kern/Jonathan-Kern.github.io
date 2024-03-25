@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://johnkern.github.io/sitemap.xml
+Sitemap: https://jonathan-kern.github.io/sitemap.xml
