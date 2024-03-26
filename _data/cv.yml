@@ -4,7 +4,7 @@
     - name: Nom
       value: Jonathan Kern
     - name: Nationalité
-      value: 14th March 1879
+      value: Français
     - name: Langues
       value: Français, Anglais, Espagnol
 
@@ -33,7 +33,7 @@
   contents:
     - title: Post-Doctorant
       institution: CEA - IRFU - DEDIP
-      year: Juin 2023 - Mai 2025
+      year: 2023 - 2025
       description:
         - Description 1.
         - Description 2.
